@@ -1,5 +1,5 @@
 INFORMATION DE CONNEXION
-courriel : river.etienne@cegepvicto.ca
+courriel : rivard.etienne@cegepvicto.ca
 mdp : DevWeb3
 
 
