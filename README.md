@@ -2,6 +2,10 @@ INFORMATION DE CONNEXION
 courriel : rivard.etienne@cegepvicto.ca
 mdp : DevWeb3
 
+## Information sur le site web
+
+Le site web est une collection de ville avec leurs inforamtions de base.
+il y a un formulaire pour ajouter des villes, possibilité de les supprimer de la liste également
 
 
 
